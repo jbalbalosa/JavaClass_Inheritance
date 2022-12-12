@@ -11,5 +11,7 @@ public class Main {
 
         Dog dog = new Dog("Yorkie",1,1,8, 20, 2, 4, 4, 20,"Long silky");
         dog.eat();
+        //dog.walk();
+        dog.run();
     }
 }
